@@ -1,1 +1,1 @@
-# money-way-managed-int-backend
+# MoneyWay - backend
